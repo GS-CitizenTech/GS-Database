@@ -1,0 +1,17 @@
+ORDEM DE EXECUCAO
+
+ORACLE
+1. Oracle/banco.sql
+2. Oracle/testes_oracle.sql
+
+MONGODB (mongosh)
+1. MongoDB/database.js
+2. MongoDB/collections.js
+3. MongoDB/dados_teste.js
+4. MongoDB/relatorios.js
+
+Antes da entrega:
+- Preencha identificacao.txt.
+- Execute os scripts no seu ambiente.
+- Salve evidencias reais em Documentacao/evidencias/.
+- Confira o README.md.

@@ -1,0 +1,15 @@
+GLOBAL SOLUTION 2026/2 — CITIZENTECH
+Disciplina: Mastering Relational and Non-Relational Database
+Desafio: Do Oracle ao MongoDB — dados a serviço do cidadão
+
+Nome completo dos integrantes:
+1. Lucas Rafael Solimene
+2. Samyr Couto Oliveira
+3. Henrique Teixeira Cesar
+
+RM de cada integrante:
+1. 565194
+2. 565562
+3. 563088
+
+Turma: 2TDSPF
